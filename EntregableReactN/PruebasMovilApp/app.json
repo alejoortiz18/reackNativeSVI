@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "PruebasMovilApp",
+    "slug": "PruebasMovilApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Cod.webp",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Cod.webp",
+      "resizeMode": "contain",
+      "backgroundColor": "#808080"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Cod.webp",
+        "backgroundColor": "#808080"
+      }
+    },
+    "web": {
+      "favicon": "./assets/Cod.webp"
+    }
+  }
+}
